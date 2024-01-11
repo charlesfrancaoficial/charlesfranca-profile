@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/charlesfranca-profile/static/css/main.263a004d.css",
+    "main.css": "/charlesfranca-profile/static/css/main.726f7304.css",
     "main.js": "/charlesfranca-profile/static/js/main.acee94c8.js",
     "static/js/787.c67d187e.chunk.js": "/charlesfranca-profile/static/js/787.c67d187e.chunk.js",
     "static/media/profile-image.jpg": "/charlesfranca-profile/static/media/profile-image.d4f46dd6b8cffac32bf1.jpg",
     "static/media/certification-file.svg": "/charlesfranca-profile/static/media/certification-file.25942230ac9957a13c4c8796123cef74.svg",
     "index.html": "/charlesfranca-profile/index.html",
-    "main.263a004d.css.map": "/charlesfranca-profile/static/css/main.263a004d.css.map",
+    "main.726f7304.css.map": "/charlesfranca-profile/static/css/main.726f7304.css.map",
     "main.acee94c8.js.map": "/charlesfranca-profile/static/js/main.acee94c8.js.map",
     "787.c67d187e.chunk.js.map": "/charlesfranca-profile/static/js/787.c67d187e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.263a004d.css",
+    "static/css/main.726f7304.css",
     "static/js/main.acee94c8.js"
   ]
 }
